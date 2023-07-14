@@ -1,0 +1,58 @@
+[
+    {
+        "id": 0,
+        "name": "Vivek Ahuja",
+        "team": "Team A",
+        "score": 45,
+        "wickets": 2
+    },
+    {
+        "id": 1,
+        "name": "Rohit Roy",
+        "team": "Team A",
+        "score": 105,
+        "wickets": 0
+    },
+    {
+        "id": 2,
+        "name": "Pratyush Shrivastav",
+        "team": "Team B",
+        "score": 88,
+        "wickets": 1
+    },
+    {
+        "id": 3,
+        "name": "Ayush Singh",
+        "team": "Team B",
+        "score": 11,
+        "wickets": 4
+    },
+    {
+        "id": 4,
+        "name": "Shivam Tiwari",
+        "team": "Team C",
+        "score": 87,
+        "wickets": 0
+    },
+    {
+        "id": 5,
+        "name": "Jayesh Joshi",
+        "team": "Team C",
+        "score": 76,
+        "wickets": 0
+    },
+    {
+        "id": 6,
+        "name": "Suraj Mathur",
+        "team": "Team C",
+        "score": 76,
+        "wickets": 0
+    },
+    {
+        "id": 7,
+        "name": "Suraj Mathur",
+        "team": "Team C",
+        "score": 76,
+        "wickets": 0
+    }
+]

@@ -1,0 +1,123 @@
+[
+    {
+        "id": 0,
+        "teamName": "Team A",
+        "players": [
+            "Vivek",
+            "Imraan",
+            "Ayush",
+            "Ronit",
+            "Umang",
+            "Vikash",
+            "Garvit",
+            "Tanmay",
+            "Harpreet",
+            "Pratyush",
+            "Shubham"
+        ],
+        "topScorer": [
+            "Ayush",
+            "Ronit"
+        ],
+        "topWicketTakers": [
+            "Tanmay",
+            "Garvit"
+        ]
+    },
+    {
+        "id": 1,
+        "teamName": "Team B",
+        "players": [
+            "Vivek",
+            "Imraan",
+            "Ayush",
+            "Rohit",
+            "Umang",
+            "Vikash",
+            "Garvit",
+            "Tanmay",
+            "Harpreet",
+            "Pratyush",
+            "Shubham"
+        ],
+        "topScorer": [
+            "Ayush"
+        ],
+        "topWicketTakers": [
+            "Pratyush",
+            "Rohit",
+            "Vikash"
+        ]
+    },
+    {
+        "id": 2,
+        "teamName": "Team C",
+        "players": [
+            "Vivek",
+            "Imraan",
+            "Ayush",
+            "Vedant",
+            "Umang",
+            "Vikash",
+            "Garvit",
+            "Tanmay",
+            "Harpreet",
+            "Pratyush",
+            "Shubham"
+        ],
+        "topScorer": [
+            "Vedant",
+            "Ronit"
+        ],
+        "topWicketTakers": [
+            "Harpreet"
+        ]
+    },
+    {
+        "id": 3,
+        "teamName": "Team D",
+        "players": [
+            "Vivek",
+            "Imraan",
+            "Ayush",
+            "Ronit",
+            "Umang",
+            "Vikash",
+            "Garvit",
+            "Tanmay",
+            "Harpreet",
+            "Pratyush",
+            "Shubham"
+        ],
+        "topScorer": [
+            "Garvit"
+        ],
+        "topWicketTakers": [
+            "Vivek"
+        ]
+    },
+    {
+        "id": 4,
+        "teamName": "Team E",
+        "players": [
+            "Rahul",
+            "Imraan",
+            "Ayush",
+            "Vedant",
+            "Umang",
+            "Nitin",
+            "Garvit",
+            "Tanmay",
+            "Harpreet",
+            "Pratyush",
+            "Shubham"
+        ],
+        "topScorer": [
+            "Rahul"
+        ],
+        "topWicketTakers": [
+            "Nitin",
+            "Shubham"
+        ]
+    }
+]

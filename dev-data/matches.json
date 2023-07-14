@@ -1,0 +1,37 @@
+[
+    {
+        "id":0,
+        "event": "Qualifier 1",
+        "firstContender": "Team A",
+        "secondContender": "Team B",
+        "matchDay" : "2023-09-14"
+    },
+    {
+        "id":1,
+        "event": "Final",
+        "firstContender": "Team D",
+        "secondContender": "Team B",
+        "matchDay" : "2023-09-30"
+    },
+    {
+        "id":2,
+        "event": "Qualifier 1",
+        "firstContender": "Team E",
+        "secondContender": "Team A",
+        "matchDay" : "2023-09-09"
+    },
+    {
+        "id":3,
+        "event": "Group stage",
+        "firstContender": "Team B",
+        "secondContender": "Team D",
+        "matchDay" : "2023-09-27"
+    },
+    {
+        "id":4,
+        "event": "SemiFinal",
+        "firstContender": "Team A",
+        "secondContender": "Team C",
+        "matchDay" : "2023-09-29"
+    }
+]
